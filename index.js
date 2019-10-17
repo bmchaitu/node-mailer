@@ -6,7 +6,7 @@ var xoauth2 = require('xoauth2');
  		//xoauth2: xoauth2.createXOAuth2Generator({
  		//
     user : 'budagavichaitu@gmail.com',
- 		pass : 'tomandjerry@CN420',
+ 		pass : PASSWORD,
  		}
  	//}
  });
