@@ -11,8 +11,8 @@ var xoauth2 = require('xoauth2');
  	//}
  });
   var mailOptions = {
-  	from : 'budagavichaitu@gmail.com',
-  	to : 'hemabasavaraj.459@gmail com',
+  	from : 'from-mail-addressgmail.com',
+  	to : 'to-mail-address-@gmail com',
   	subject : "Testing mail",
   	text : "Hello World",
   	html : "<h1>HelloWorld</h1>"
